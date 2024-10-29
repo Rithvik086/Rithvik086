@@ -1,4 +1,5 @@
 ## Hi there 👋
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithvik086&show_icons=true&theme=gruvbox_light&hide_border=false)
 
 <!--
 **Rithvik086/Rithvik086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
