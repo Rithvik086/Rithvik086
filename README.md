@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Rithvik Rao  and I'm a passionate Computer Science student at Indian Institute Of Information Technology SriCity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rithvik086&show_icons=true&theme=gruvbox_light&hide_border=false)
 
 <!--
