@@ -1,5 +1,36 @@
-# 💫 About Me:
- Hey hey 👋<br><br>I'm Rithvik Rao — part-time coder, full-time Googler of error messages.  <br>🌱 Currently trying to make sense of web dev, AI, and why cloud costs so much  <br>🤖 Dreaming of building something cool... or at least something that compiles  <br>💬 Comfortable with JavaScript and Java, always eager to learn more <br>📫 Find me in the matrix: rithvikrao2005@gmail.com<br>⚡ Fun fact: I treat semicolons like optional seasoning.<br><br>Thanks for stopping by. Bring snacks next time. 🍕<br>
+# 💫 About Me
+
+Hey hey 👋  
+I'm **Rithvik Rao** — part-time coder, full-time Googler of error messages.
+
+---
+
+### 🎓 Education
+- 📚 Pursuing B.Tech at **IIIT Sri City**
+
+---
+
+### 💻 What I'm About
+- 🌱 Currently trying to make sense of **web dev**, **AI**, and why **cloud costs so much**
+- 🤖 Dreaming of building something cool... or at least something that compiles
+- 💬 Comfortable with **JavaScript** and **Java**, always eager to learn more
+- 🔥 Passionate about software development, memes, and meaningful side projects
+
+---
+
+### 📫 Let's Connect
+- 📧 Email: rithvikrao2005@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/rithvik-rao-8600882a2](https://www.linkedin.com/in/rithvik-rao-8600882a2/)
+
+---
+
+### ⚡ Fun Fact  
+I treat **semicolons** like optional seasoning.
+
+---
+
+Thanks for stopping by. **Bring snacks next time.** 🍕
+
 
 
 ## 🌐 Socials:
