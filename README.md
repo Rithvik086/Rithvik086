@@ -1,5 +1,5 @@
 # 💫 About Me
-
+<img align='right' src="https://github.com/Rithvik086/Rithvik086/blob/main/psy.png" width="300">
 Hey hey 👋  
 I'm **Rithvik Rao** — part-time coder, full-time Googler of error messages.
 
