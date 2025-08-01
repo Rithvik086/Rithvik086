@@ -12,7 +12,7 @@ I'm **Rithvik Rao** — part-time coder, full-time Googler of error messages.
 🤖 Dreaming of building something cool... or at least something that compiles  
 💬 Comfortable with **JavaScript** and **Java**, always eager to learn more  
 📫 Find me at: rithvikrao2005@gmail.com  
-🔥 Passionate about software development, memes, and meaningful side projects
+🔥 Passionate about software development and meaningful side projects
 
 ⚡ Fun fact: I treat **semicolons** like optional seasoning.
 
